@@ -11,10 +11,10 @@ My name is Florian, i'm a 18 year old junior software developer from the Netherl
 
 **Current setup:**
  - EndeavourOS 🐧
- - Gnome 🪟
- - GDM 🔐
+ - XFCE4 🪟
+ - LightDM 🔐
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlorianKempe&theme=synthwave&v=2)
+[![wakatime](https://wakatime.com/badge/user/2b0ea6f5-a176-43f0-b846-ccfc225f9caa.svg)](https://wakatime.com/@2b0ea6f5-a176-43f0-b846-ccfc225f9caa)
 
 <a>
 <img href="https://github.com/FlorianKempe" align="center" src="https://github-readme-stats.vercel.app/api?username=FlorianKempe&show_icons=true&theme=synthwave&line_height=27" alt="Florian's github stats"/>
