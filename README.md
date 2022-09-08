@@ -9,11 +9,6 @@ My name is Florian, i'm a 18 year old junior software developer from the Netherl
 - WebDevelopment 🌐
 - And much more ofcourse 😉
 
-**Current setup:**
- - EndeavourOS 🐧
- - XFCE4 🪟
- - LightDM 🔐
-
 [![wakatime](https://wakatime.com/badge/user/2b0ea6f5-a176-43f0-b846-ccfc225f9caa.svg)](https://wakatime.com/@2b0ea6f5-a176-43f0-b846-ccfc225f9caa)
 
 <a>
